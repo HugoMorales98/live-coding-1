@@ -2,3 +2,5 @@ Escribir mas comentarios.
 Pensar mas el problema que variables van a entrar y van a salir.
 practicar las funciones y la manipulacion del dom.
 Practicar mas codificar.
+
+No termine mi codigo
