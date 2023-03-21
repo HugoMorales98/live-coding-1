@@ -3,4 +3,6 @@ Pensar mas el problema que variables van a entrar y van a salir.
 practicar las funciones y la manipulacion del dom.
 Practicar mas codificar.
 
+Retro realizada por Rafael Encinas
+
 No termine mi codigo
